@@ -8,6 +8,12 @@ In Node.js backends, request-scoped data like `requestId`, `userId`, and `correl
 
 ## Quick Start
 
+Install:
+
+```bash
+npm i request-context-node
+```
+
 ```ts
 import { createContext } from "request-context";
 
