@@ -15,6 +15,10 @@
       "require": "./dist/index.cjs"
     }
   },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/drorgal/request-context.git"
+  },
   "files": [
     "dist",
     "README.md",
